@@ -14,10 +14,6 @@
 
 我们坚信，在代码的每个细节中都蕴藏着让世界更好的可能。
 
-# 🔗 Website
-
-https://civetberry.cc/
-
 # 🧱 Devs
 <a href="https://github.com/Null-K" target="_blank"><img src="https://s2.loli.net/2024/10/31/gvBELoZX5cj6pal.png" /></a>
 <a href="https://github.com/Robonyantame" target="_blank"><img src="https://s2.loli.net/2024/10/31/wLTfoKPbqvEhjp9.png" /></a>
