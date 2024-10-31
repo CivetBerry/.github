@@ -1,12 +1,19 @@
+<img align="right" src="https://avatars.githubusercontent.com/u/183881841?s=350&v=4" width="350" height="350" />
+
 ## Hi there 👋
 
-<!--
+> Minecraft Server & Plugins Development Team
 
-**Here are some ideas to get you started:**
+# 关于 CivetBerry
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+三个原本以各自独特步调向前迈进的不同行业的开发者，决定携手组成一直活泼开放、具有实验精神且勇于冒险的队伍 - "CivetBerry" 开发团队便在此契机下应运而生。
+
+"CivetBerry" 的开发者们是一群狂热的技术探索者，对代码和创新充满好奇。
+
+我们将矛头指向那些僵固且单一化观念，热衷于将新的技术和创意完美结合，以对技术的极致追求与独特的创意视角，致力于解决最棘手的问题，来创造出符合大众的优秀产品。
+
+我们坚信，在代码的每个细节中都蕴藏着让世界更好的可能。
+
+# URL
+
+🔗 https://civetberry.cc/
