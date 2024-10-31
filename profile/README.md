@@ -19,7 +19,6 @@
 🔗 https://civetberry.cc/
 
 # Devs
-
-<a href="https://sm.ms/image/gvBELoZX5cj6pal" target="_blank"><img src="https://s2.loli.net/2024/10/31/gvBELoZX5cj6pal.png" /></a>
-<a href="https://sm.ms/image/wLTfoKPbqvEhjp9" target="_blank"><img src="https://s2.loli.net/2024/10/31/wLTfoKPbqvEhjp9.png" /></a>
-<a href="https://sm.ms/image/Elr15987w2fGBbv" target="_blank"><img src="https://s2.loli.net/2024/10/31/Elr15987w2fGBbv.png" /></a>
+<a href="https://github.com/Null-K" target="_blank"><img src="https://s2.loli.net/2024/10/31/gvBELoZX5cj6pal.png" /></a>
+<a href="https://github.com/Robonyantame" target="_blank"><img src="https://s2.loli.net/2024/10/31/wLTfoKPbqvEhjp9.png" /></a>
+<a href="https://github.com/c6161039" target="_blank"><img src="https://s2.loli.net/2024/10/31/Elr15987w2fGBbv.png" /></a>
