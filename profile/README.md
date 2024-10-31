@@ -2,7 +2,7 @@
 
 # 👋 Hi there
 
-> Minecraft Server & Plugins Development Team
+> Full-Stack development team
 
 # 💕 About
 
