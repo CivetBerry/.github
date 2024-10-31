@@ -1,10 +1,10 @@
 <!--<img align="right" src="https://avatars.githubusercontent.com/u/183881841?s=350&v=4" width="350" height="350" />-->
 
-## Hi there 👋
+# 👋 Hi there
 
 > Minecraft Server & Plugins Development Team
 
-# 关于 CivetBerry
+# 💕 About
 
 三个原本以各自独特步调向前迈进的不同行业的开发者，决定携手组成一直活泼开放、具有实验精神且勇于冒险的队伍 - "CivetBerry" 开发团队便在此契机下应运而生。
 
@@ -14,11 +14,11 @@
 
 我们坚信，在代码的每个细节中都蕴藏着让世界更好的可能。
 
-# URL
+# 🔗 Website
 
-🔗 https://civetberry.cc/
+https://civetberry.cc/
 
-# Devs
+# 🧱 Devs
 <a href="https://github.com/Null-K" target="_blank"><img src="https://s2.loli.net/2024/10/31/gvBELoZX5cj6pal.png" /></a>
 <a href="https://github.com/Robonyantame" target="_blank"><img src="https://s2.loli.net/2024/10/31/wLTfoKPbqvEhjp9.png" /></a>
 <a href="https://github.com/c6161039" target="_blank"><img src="https://s2.loli.net/2024/10/31/Elr15987w2fGBbv.png" /></a>
